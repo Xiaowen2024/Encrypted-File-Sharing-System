@@ -17,3 +17,7 @@ This projects implements a client application for a secure file sharing system i
 
 We defined five structs: user, file, filePointer, invitation, and invitationAccess.
 
+![User](https://github.com/Xiaowen2024/Encrypted-File-Sharing-System/blob/main/graphs/user.png)
+![Invitation](https://github.com/Xiaowen2024/Encrypted-File-Sharing-System/blob/main/graphs/invitation.png)
+![InvitationAccess](https://github.com/Xiaowen2024/Encrypted-File-Sharing-System/blob/main/graphs/invitationAccess.png)
+![FilePointer](https://github.com/Xiaowen2024/Encrypted-File-Sharing-System/blob/main/graphs/filepointer.png)
