@@ -1,4 +1,4 @@
-# Project 2 Starter Code
+# Encrypted-File-Sharing-System
 
 This repository contains the code for CS161 Project 2.
 
